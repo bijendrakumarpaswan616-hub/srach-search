@@ -70,7 +70,7 @@ fun HomeScreen(onSearch: (String) -> Unit) {
             verticalArrangement = Arrangement.Center
         ) {
             Image(
-                painter = painterResource(id = com.example.R.drawable.srach_logo),
+                painter = painterResource(id = com.example.R.drawable.srach_logo_medium),
                 contentDescription = "SRACH Logo",
                 modifier = Modifier
                     .size(80.dp)

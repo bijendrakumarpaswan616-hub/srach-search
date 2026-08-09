@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/srach_logo"
+        android:drawable="@drawable/srach_logo_small"
         android:gravity="center" />
 </layer-list>

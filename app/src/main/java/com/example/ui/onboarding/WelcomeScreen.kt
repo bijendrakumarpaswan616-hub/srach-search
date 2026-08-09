@@ -30,7 +30,7 @@ fun WelcomeScreen(
         Spacer(modifier = Modifier.weight(1f))
         
         Image(
-            painter = painterResource(id = R.drawable.srach_logo),
+            painter = painterResource(id = R.drawable.srach_logo_medium),
             contentDescription = "SRACH Logo",
             modifier = Modifier
                 .size(100.dp)
