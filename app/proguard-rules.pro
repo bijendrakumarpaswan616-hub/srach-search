@@ -1,4 +1,11 @@
 # Add project specific ProGuard rules here.
+-keep class com.example.data.** { *; }
+-keepclassmembers class com.example.data.** { *; }
+
+# Moshi rules
+-keep class kotlin.reflect.** { *; }
+-keep class com.squareup.moshi.** { *; }
+-keep interface com.squareup.moshi.** { *; }
 # You can control the set of applied configuration files using the
 # proguardFiles setting in build.gradle.
 #
