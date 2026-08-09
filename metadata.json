@@ -1,0 +1,6 @@
+{
+  "name": "SRACH",
+  "description": "SRACH is a next-generation search engine and web discovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
